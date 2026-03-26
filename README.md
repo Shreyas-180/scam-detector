@@ -1,4 +1,4 @@
-# Scam Detector Web App
+# Spam Detector Web App
 
 A simple machine learning web application that detects whether a message is **Spam** or **Not Spam**.
 
